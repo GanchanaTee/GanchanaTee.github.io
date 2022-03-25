@@ -12,7 +12,7 @@ router.post('/contact',(req, res) => {
         port: 465,
         auth:{
             user: 'ganchana78@gmail.com',
-            pass: 'g029059229'
+            pass: '-'
         }
     })
     let mailOptions = {
